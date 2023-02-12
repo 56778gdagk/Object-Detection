@@ -1,0 +1,21 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    color:darkblue;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+a{
+    background-color: yellow;
+    color: green;
+    margin: 10px;
+    width:fit-content;
+    border-radius: 5px;
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
